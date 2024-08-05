@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ar-fitar/static/css/main.e85fbf61.css",
+    "main.js": "/ar-fitar/static/js/main.115d0ef0.js",
+    "static/js/592.bf6ca574.chunk.js": "/ar-fitar/static/js/592.bf6ca574.chunk.js",
+    "static/media/Chair.glb": "/ar-fitar/static/media/Chair.81d37114ef23d124b2a3.glb",
+    "static/media/chair.usdc": "/ar-fitar/static/media/chair.c13e1ea640295f8d84c9.usdc",
+    "static/media/sofa.glb": "/ar-fitar/static/media/sofa.ec2295425d8b04f3cdf1.glb",
+    "static/media/the_kungsara_bench.glb": "/ar-fitar/static/media/the_kungsara_bench.ffac8508554c84ded3e5.glb",
+    "static/media/Painting.usdz": "/ar-fitar/static/media/Painting.5af071606bac66a79d83.usdz",
+    "static/media/sheenchair.usdz": "/ar-fitar/static/media/sheenchair.70a86a42ce3305c90fcc.usdz",
+    "static/media/sheenchair.glb": "/ar-fitar/static/media/sheenchair.cccef135a68bd6991cb1.glb",
+    "static/media/Painting.glb": "/ar-fitar/static/media/Painting.795b80f5713e1e052bac.glb",
+    "static/media/sofa.usdc": "/ar-fitar/static/media/sofa.76ec4eb32ad5a80389f6.usdc",
+    "static/media/bg5.jpg": "/ar-fitar/static/media/bg5.fbdc992775d0c0221c95.jpg",
+    "static/media/scene.usdc": "/ar-fitar/static/media/scene.647e686b00e0438fbbfc.usdc",
+    "static/media/hero.png": "/ar-fitar/static/media/hero.fd643a9a41aaca1ab042.png",
+    "static/media/bootstrap-icons.woff?": "/ar-fitar/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ar-fitar/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/about.png": "/ar-fitar/static/media/about.d846ff2832459c837f4b.png",
+    "static/media/hero-bg.jpg": "/ar-fitar/static/media/hero-bg.6d3cdc58e9152fbef11f.jpg",
+    "static/media/logo2.png": "/ar-fitar/static/media/logo2.9c1cff783caf58bb8a94.png",
+    "index.html": "/ar-fitar/index.html",
+    "main.e85fbf61.css.map": "/ar-fitar/static/css/main.e85fbf61.css.map",
+    "main.115d0ef0.js.map": "/ar-fitar/static/js/main.115d0ef0.js.map",
+    "592.bf6ca574.chunk.js.map": "/ar-fitar/static/js/592.bf6ca574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85fbf61.css",
+    "static/js/main.115d0ef0.js"
+  ]
+}
